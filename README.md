@@ -4,7 +4,7 @@
 
 > Landing Page criada no curso Danki Code.
 
-→ Clique aqui para acessar : 
+→ Clique aqui para acessar : https://samueliglesiass.github.io/Landing-Page-01/
 
 ## Tecnologias 
 
